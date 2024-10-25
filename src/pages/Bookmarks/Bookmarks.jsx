@@ -16,7 +16,7 @@ const Bookmarks = () => {
     setBlogs(storedBlogs)
  }
 	
- if(blogs.length<1) return <EmptyState  message='No Bookmarks available !!'></EmptyState>
+ if(blogs.length<1) return <EmptyState  message='No Bookmarks available !!' address={'/blog'} level={'go to Blog'}></EmptyState>
 
     return (
         <div className=''>

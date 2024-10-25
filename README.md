@@ -6,3 +6,19 @@ Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+
+
+React Router Dom
+Tailwindcss Buttons
+Mamba UI - Components
+Animated Gradient Text
+Dev.to API Docs
+React-Hot-Toast
+React-Spinner
+React-Icons
+React-Markdown
+ReHype-Raw
+Prop-Types
+Daisy UI
+TailwindCSS
