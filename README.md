@@ -9,15 +9,15 @@ Currently, two official plugins are available:
 
 
 
-React Router Dom
-Tailwindcss Buttons
-Mamba UI - Components
+-React Router Dom (https://reactrouter.com/en/main)
+Tailwindcss Buttons (https://devdojo.com/tailwindcss/buttons)
+Mamba UI - Components (https://mambaui.com/components)
 Animated Gradient Text
-Dev.to API Docs
-React-Hot-Toast
-React-Spinner
-React-Icons
-React-Markdown
+Dev.to API Docs  (https://developers.forem.com/api/v1)
+React-Hot-Toast (https://www.npmjs.com/package/react-hot-toast) +(https://react-hot-toast.com/)
+React-Spinner (https://www.davidhu.io/react-spinners/) install (https://www.npmjs.com/package/react-spinners)
+React-Icons (https://react-icons.github.io/react-icons/)
+React-Markdown (https://www.npmjs.com/package/react-markdown)
 ReHype-Raw
 Prop-Types
 Daisy UI
