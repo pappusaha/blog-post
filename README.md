@@ -18,7 +18,7 @@ React-Hot-Toast (https://www.npmjs.com/package/react-hot-toast) +(https://react-
 React-Spinner (https://www.davidhu.io/react-spinners/) install (https://www.npmjs.com/package/react-spinners)
 React-Icons (https://react-icons.github.io/react-icons/)
 React-Markdown (https://www.npmjs.com/package/react-markdown)
-ReHype-Raw
-Prop-Types
+ReHype-Raw (https://www.npmjs.com/package/rehype-raw)
+Prop-Types (https://www.npmjs.com/package/prop-types)
 Daisy UI
 TailwindCSS
