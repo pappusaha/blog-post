@@ -9,7 +9,7 @@ Currently, two official plugins are available:
 
 
 
--React Router Dom (https://reactrouter.com/en/main)
+-[@vitejs/plugin-react-swc](https://reactrouter.com/en/main)
 Tailwindcss Buttons (https://devdojo.com/tailwindcss/buttons)
 Mamba UI - Components (https://mambaui.com/components)
 Animated Gradient Text

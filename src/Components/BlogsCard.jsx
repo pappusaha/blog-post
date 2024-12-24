@@ -11,7 +11,7 @@ const BlogsCard = ({blog,deletable, handleDeleteButton}) => {
 
 
     return (
-        <div className='relative p-1 border-2 rounded-lg hover:scale-105 '> 
+        <div className='relative p-1 border-2 rounded-lg hover:scale-110 '> 
             	<Link to={`/blog/${id}`} 
                 className="max-w-sm mx-auto group   transition    border-primary   hover:border-secondary border-opacity-30 hover:no-underline focus:no-underline ">
 				<img role="presentation" className="object-cover w-full rounded h-44  bg-gray-500" src={cover_image || placeholderImage} />
